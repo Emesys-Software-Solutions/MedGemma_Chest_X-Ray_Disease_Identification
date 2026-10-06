@@ -704,25 +704,17 @@ Add project screenshots to the `images/` directory.
 
 ### 🩻 X-Ray Prediction
 
-```text
-images/xray-prediction.png
-```
+
 
 ![X-Ray Prediction](images/xray-prediction.png)
 
 ### 🔍 Explainability Heatmap
 
-```text
-images/heatmap.png
-```
+
 
 ![Explainability Heatmap](images/heatmap.png)
 
 ### 🖥️ Streamlit Dashboard
-
-```text
-images/dashboard.png
-```
 
 ![Streamlit Dashboard](images/dashboard.png)
 
@@ -732,11 +724,23 @@ images/dashboard.png
 
 ## 🎥 Demo
 
-Add a project demonstration video or GIF here.
+<p align="center">
 
-```text
-demo/medgemma-chest-xray-demo.mp4
-```
+<a href="https://vimeo.com/1233267072">
+  <img src="images/MedGemma_AI_Chest_X-Ray_Analysis.png"
+       alt="AI-Powered Conveyor Vision System Demo"
+       width="900">
+</a>
+
+</p>
+
+<p align="center">
+
+▶️ **Click the thumbnail to watch the project demo**
+
+</p>
+
+
 
 ---
 
